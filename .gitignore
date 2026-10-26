@@ -1,0 +1,28 @@
+# Angular
+/dist
+/node_modules
+client/node_modules/
+client/.angular/cache
+npm-debug.log
+yarn-error.log
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.tmp
+*.log
+*.vs/
+
+# IDEs and editors
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# System files
+.DS_Store
+Thumbs.db
